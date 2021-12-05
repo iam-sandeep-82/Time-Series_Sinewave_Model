@@ -1,1 +1,1 @@
-# Forecast_Sine-wave_RNN
+Forecast Sinewave Generator RNN Model
